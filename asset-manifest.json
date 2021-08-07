@@ -1,15 +1,15 @@
 {
-  "main.css": "/social-network/static/css/main.79d6dbc2.chunk.css",
-  "main.js": "/social-network/static/js/main.751460f4.chunk.js",
-  "main.js.map": "/social-network/static/js/main.751460f4.chunk.js.map",
-  "static/css/1.fe5b4aea.chunk.css": "/social-network/static/css/1.fe5b4aea.chunk.css",
-  "static/js/1.dbe6aaa0.chunk.js": "/social-network/static/js/1.dbe6aaa0.chunk.js",
-  "static/js/1.dbe6aaa0.chunk.js.map": "/social-network/static/js/1.dbe6aaa0.chunk.js.map",
-  "runtime~main.js": "/social-network/static/js/runtime~main.22e660ce.js",
-  "runtime~main.js.map": "/social-network/static/js/runtime~main.22e660ce.js.map",
-  "static/css/1.fe5b4aea.chunk.css.map": "/social-network/static/css/1.fe5b4aea.chunk.css.map",
-  "static/css/main.79d6dbc2.chunk.css.map": "/social-network/static/css/main.79d6dbc2.chunk.css.map",
-  "index.html": "/social-network/index.html",
-  "precache-manifest.8997140856635e11c813839b219b82dc.js": "/social-network/precache-manifest.8997140856635e11c813839b219b82dc.js",
-  "service-worker.js": "/social-network/service-worker.js"
+  "main.css": "/thuiskapper/static/css/main.5c994be6.chunk.css",
+  "main.js": "/thuiskapper/static/js/main.ff2af4d3.chunk.js",
+  "main.js.map": "/thuiskapper/static/js/main.ff2af4d3.chunk.js.map",
+  "static/css/1.1f9e374e.chunk.css": "/thuiskapper/static/css/1.1f9e374e.chunk.css",
+  "static/js/1.d3635b4b.chunk.js": "/thuiskapper/static/js/1.d3635b4b.chunk.js",
+  "static/js/1.d3635b4b.chunk.js.map": "/thuiskapper/static/js/1.d3635b4b.chunk.js.map",
+  "runtime~main.js": "/thuiskapper/static/js/runtime~main.9a9d8bf6.js",
+  "runtime~main.js.map": "/thuiskapper/static/js/runtime~main.9a9d8bf6.js.map",
+  "static/css/main.5c994be6.chunk.css.map": "/thuiskapper/static/css/main.5c994be6.chunk.css.map",
+  "static/css/1.1f9e374e.chunk.css.map": "/thuiskapper/static/css/1.1f9e374e.chunk.css.map",
+  "index.html": "/thuiskapper/index.html",
+  "precache-manifest.0f92b0f86a173b66bb9e8c1301eb563f.js": "/thuiskapper/precache-manifest.0f92b0f86a173b66bb9e8c1301eb563f.js",
+  "service-worker.js": "/thuiskapper/service-worker.js"
 }
